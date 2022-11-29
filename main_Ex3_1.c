@@ -5,6 +5,7 @@
 
 void main() {
 
+    //test
    uint8_t i;
    bool bNegatif;
    char c;
@@ -19,7 +20,7 @@ void main() {
 
    // addition 16 bits
    b = b + 0x123;
-
+ 
    // addition 32 bits
   d = d + 0x10000;
 
